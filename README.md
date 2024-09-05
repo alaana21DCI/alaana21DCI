@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Junior Fullstack Web Developer
-I am a very motivated and aspiring full stack web developer who is always interested in stimulating challenges and gaining new
-experiences. That's why I love technology.
-Looking for a job opportunity to expand my IT skills and make valuable contributions to your company. 
+FULLSTACK WEBENTWICKLERIN
+Motivierte und wissbegierige Fullstack Webentwicklerin, die nach einer herausfordernden Position sucht, um ihre umfangreiche Erfahrung in der Softwareentwicklung weiter auszubauen. Mit einem Hintergrund in Architektur und einer Leidenschaft für optisches Design und Frontend-Entwicklung, strebe ich danach, innovative und benutzerfreundliche Lösungen zu schaffen.
