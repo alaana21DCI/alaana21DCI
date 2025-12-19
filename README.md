@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 Motivierte Full-Stack Webentwicklerin
 mit Schwerpunkt React & FastAPI
 sowie fundierter Erfahrung in Data
-Analytics mit Python. Ziel: Entwicklung
+Analytics mit Python.
+
+**Ziel**: Entwicklung
 innovativer, benutzerfreundlicher
 Softwarelösungen und
 datengetriebener Geschäftsprozesse..
